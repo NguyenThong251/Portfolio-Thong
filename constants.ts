@@ -34,7 +34,10 @@ export const MENULINKS = [
   },
 ];
 
-export const TYPED_STRINGS = ["I Web Developer", "I UI/UX Designer"];
+export const TYPED_STRINGS = [
+  "I Web Developer, UI/UX Designer",
+  "I Web Developer, UI/UX Designer",
+];
 
 export const EMAIL = "ayush.singh.xda@gmail.com";
 
