@@ -47,7 +47,7 @@ export const SOCIAL_LINKS = {
   // dribbble: "https://dribbble.com/alphaayush",
   // behance: "https://www.behance.net/alphaayush/",
   // twitter: "https://twitter.com/ayush013",
-  // topmate: "https://www.topmate.io/alphaayush/",
+  topmate: "https://www.topmate.io/alphaayush/",
 };
 
 export interface IProject {
