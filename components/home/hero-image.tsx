@@ -11,10 +11,10 @@ const HeroImage = () => (
   <div className="">
     <Image 
       className="w-full"
-               src="/banner-thong.svg"
+               src="/thong-banner.svg"
                alt="Logo - Ayush Singh"
                width={1021}
-               height={850}
+               height={1050}
                style={{
                 height:"auto"
                }}
