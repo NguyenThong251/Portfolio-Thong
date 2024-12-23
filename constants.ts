@@ -5,10 +5,10 @@
 // License text available at https://opensource.org/licenses/MIT
 
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Thong",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+  siteUrl: "#",
 };
 
 export const MENULINKS = [
@@ -34,25 +34,20 @@ export const MENULINKS = [
   },
 ];
 
-export const TYPED_STRINGS = [
-  "I design and develop things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
-  "I design and develop motion",
-];
+export const TYPED_STRINGS = ["I Web Developer", "I UI/UX Designer"];
 
 export const EMAIL = "ayush.singh.xda@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/ho%C3%A0ng-th%C3%B4ng-a89a8327b/",
+  github: "https://github.com/NguyenThong251/",
+  // medium: "https://alphaayush.medium.com/",
+  instagram: "https://www.instagram.com/_thongnh25_/",
+  facebook: "https://www.facebook.com/profile.php?id=100049657233032",
+  // dribbble: "https://dribbble.com/alphaayush",
+  // behance: "https://www.behance.net/alphaayush/",
+  // twitter: "https://twitter.com/ayush013",
+  // topmate: "https://www.topmate.io/alphaayush/",
 };
 
 export interface IProject {
